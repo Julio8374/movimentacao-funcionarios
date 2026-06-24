@@ -27,12 +27,15 @@ Gerar:
 - Tratamento de inconsistências
 - Relatório de auditoria
 
-## Tecnologias
+## Tecnologias e Conceitos Utilizados
 
+- ChatGPT (GPT)
+- Prompt Engineering
 - Excel
-- Python
-- Pandas
-- OpenPyXL
+- Data Validation
+- Data Quality
+- Business Rules
+- Data Processing
 
 ## Resultados
 
